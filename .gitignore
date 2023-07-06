@@ -1,0 +1,3 @@
+data/*
+messages.csv
+!.gitignore
