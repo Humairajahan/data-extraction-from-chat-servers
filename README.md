@@ -6,3 +6,7 @@ The chat servers taken into account:
 
 - [X] **Telegram**
 - [X] **Discord**
+- [ ] **WhatsApp**
+- [ ] **Slack**
+- [ ] **Microsoft Teams**
+- [ ] **Matrix/Riot**
